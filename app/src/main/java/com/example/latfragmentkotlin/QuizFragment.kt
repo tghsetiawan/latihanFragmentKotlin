@@ -49,7 +49,7 @@ class QuizFragment : Fragment() {
 
         if(current_question <question.size){
             binding.textQuiz.text = question[current_question]
-            Toast.makeText(context, "berhasil! panas : " + panas_score + " / dingin : " + dingin_score, Toast.LENGTH_SHORT).show()
+//            Toast.makeText(context, "berhasil! panas : " + panas_score + " / dingin : " + dingin_score, Toast.LENGTH_SHORT).show()
         }
         else{
             var result = ""
