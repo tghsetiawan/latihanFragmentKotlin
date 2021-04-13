@@ -22,7 +22,7 @@
             android:id="@+id/textView_selesai"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="75dp"
+            android:layout_marginTop="50dp"
             android:fontFamily="@font/titillium_web_semibold"
             android:text="Selamat Permainan Selesai"
             android:textAlignment="center"
